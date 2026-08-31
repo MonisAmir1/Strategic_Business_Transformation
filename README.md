@@ -1,4 +1,4 @@
-# Strategic Business Transformation through Portfolio Optimisation
+# Strategic Business Transformation
 
 > Analysed LUXMORA’s portfolio performance and growth dynamics to identify strategic transformation priorities and develop an evidence-based investment portfolio.
 
