@@ -1,14 +1,14 @@
 # Strategic Business Transformation
 
-> Analysed LUXMORA’s portfolio performance and growth dynamics to identify strategic transformation priorities and develop an evidence-based investment portfolio.
+> Analysed ABC Manufacturing Group's portfolio performance and growth dynamics to identify strategic transformation priorities and develop an evidence-based investment portfolio.
 
 ## **View the Full Project →**
 
 ## About the Project
 
-LUXMORA is a fictional Luxembourg-based consumer goods company operating across three divisions: Personal Care & Beauty, Household & Home Care, and Consumer Wellness.
+ABC Manufacturing Group is a fictional Luxembourg-based consumer goods company operating across three divisions: Personal Care & Beauty, Household & Home Care, and Consumer Wellness.
 
-This project investigates how LUXMORA could allocate a **€30M three-year transformation budget** by analysing five years of historical sales and portfolio data across its European markets, customer segments, and product categories.
+This project investigates how ABC Manufacturing Group could allocate a **€30M three-year transformation budget** by analysing five years of historical sales and portfolio data across its European markets, customer segments, and product categories.
 
 The analysis was approached as a real-world **Big 4 consulting engagement**, moving from business performance and portfolio diagnosis through market and customer analysis to strategic prioritisation and transformation planning.
 
@@ -16,7 +16,7 @@ The analysis was approached as a real-world **Big 4 consulting engagement**, mov
 
 The objective was to understand:
 
-- How LUXMORA’s business and portfolio performance was evolving.
+- How ABC Manufacturing Group's business and portfolio performance was evolving.
 - Where growth and economic value were being generated across the portfolio.
 - Which areas represented stronger or weaker strategic positions.
 - How the €30M transformation budget could be allocated to support sustainable growth and portfolio transformation.
@@ -51,7 +51,7 @@ This allowed the analysis to move from observed business performance to evidence
 
 ## Key Result
 
-The analysis identified differentiated strategic positions across LUXMORA’s portfolio and translated these findings into **seven transformation options**.
+The analysis identified differentiated strategic positions across ABC Manufacturing Group's portfolio and translated these findings into **seven transformation options**.
 
 The resulting transformation portfolio prioritised **€23M of the €30M budget**, while maintaining a **€7M uncommitted reserve** to preserve flexibility for emerging opportunities and initiatives that demonstrate stronger-than-expected results.
 
