@@ -2,7 +2,7 @@
 
 > Analysed ABC Manufacturing Group's portfolio performance and growth dynamics to identify strategic transformation priorities and develop an evidence-based investment portfolio.
 
-## **View the Full Project →**
+## **View the Full Project → https://monisamir1.github.io/projects/strategic-business-transformation**
 
 ## About the Project
 
@@ -65,4 +65,4 @@ This project uses a **real-world synthetic dataset** created specifically for po
 
 The complete case study contains the detailed business context, analytical approach, findings, strategic recommendations, expected business impact, technical implementation, and lessons learned.
 
-## **View the Full Project →**
+## **View the Full Project → https://monisamir1.github.io/projects/strategic-business-transformation**
